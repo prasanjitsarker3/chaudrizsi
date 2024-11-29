@@ -59,5 +59,6 @@ npm run dev
 
 # Live Link
 
-[Live Application] https://bgsoft.vercel.app
+[Live Application] https://zsi-delta.vercel.app
+
 # chaudrizsi
